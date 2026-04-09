@@ -6,7 +6,7 @@ java ApidemoApplication
 
 ## Routes  
 GET `/api/products` - Get all products  
-GET `/api/products/1` - Get product by ID
+GET `/api/products/1` - Get product by ID  
 POST `/api/products/` - Add a product
 
 ```
