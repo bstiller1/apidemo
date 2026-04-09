@@ -1,7 +1,7 @@
 # API Demo
 
 ## Instructions  
-javac ApidemoApplication.java
+javac ApidemoApplication.java  
 java ApidemoApplication
 
 ## Routes  
